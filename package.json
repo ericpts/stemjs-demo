@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "python -m SimpleHTTPServer"
+    "start": "python3 manage.py runserver"
   },
   "author": "Mihai Ciucu",
   "license": "ISC",
